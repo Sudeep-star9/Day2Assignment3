@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+}
+.assignment{
+    background-color: silver;
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left:430px;
+    margin-top: 140px;
+}
+.assignment1{
+    background-color: lime;
+    width: 400px;
+    height: 70px;
+    margin-left: 50px;
+}
+.assignment2{
+    background-color:burlywood;
+    width: 400px;
+    height: 210px;
+    margin-left:50px;
+    
+}
+.assignment3{
+    background-color: rgb(253, 101, 0);
+    width: 400px;
+    height: 70px;
+    margin-left:50px;
+}
